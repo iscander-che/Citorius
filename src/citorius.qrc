@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/citorius.ico</file>
+        <file>images/citorius.png</file>
+        <file>images/exit.png</file>
+    </qresource>
+</RCC>
